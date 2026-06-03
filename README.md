@@ -29,7 +29,7 @@ The project uses Django admin UI customization via `django-jazzmin`.
 
    ```bash
    git clone https://github.com/Anusri-Kalasani/VU-LMS.git
-   cd lms_project
+   cd VU_LMS
    ```
 
 2. Create and activate a virtual environment:
