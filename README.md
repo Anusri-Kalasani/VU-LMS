@@ -28,7 +28,7 @@ The project uses Django admin UI customization via `django-jazzmin`.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Bhavana-Reddy-Seelam/Vignan-LMS.git
+   git clone https://github.com/Anusri-Kalasani/VU-LMS.git
    cd lms_project
    ```
 
